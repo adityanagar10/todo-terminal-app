@@ -1,4 +1,4 @@
-module github.com/adityanagar10/todo-app
+module github.com/adityanagar10/todo-terminal-app
 
 go 1.20
 

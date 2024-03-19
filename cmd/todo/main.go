@@ -5,7 +5,7 @@ import (
   "errors"
   "flag"
   "fmt"
-  "github.com/adityanagar10/todo-app"
+  "github.com/adityanagar10/todo-terminal-app"
   "io"
   "os"
   "strings"
